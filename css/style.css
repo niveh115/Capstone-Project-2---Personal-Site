@@ -5,6 +5,7 @@ body {
     font-style: normal;
     text-align: center;
     background-color: #F0F0D7;
+    min-height: 100vh;
 }
 
 * {
