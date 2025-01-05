@@ -120,7 +120,8 @@ h3 {
     font-family: "Alegreya", serif;
     text-align: center;
     color: #D0DDD0;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
+    font-size: 40px;
 }
 
 .about-me-grid {
